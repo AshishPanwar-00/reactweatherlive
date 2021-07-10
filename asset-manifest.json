@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ashishpanwar-00.github.io/reactweatherlive/static/css/main.ae481947.chunk.css",
+    "main.js": "/ashishpanwar-00.github.io/reactweatherlive/static/js/main.2ef9f81e.chunk.js",
+    "main.js.map": "/ashishpanwar-00.github.io/reactweatherlive/static/js/main.2ef9f81e.chunk.js.map",
+    "runtime-main.js": "/ashishpanwar-00.github.io/reactweatherlive/static/js/runtime-main.32703ca0.js",
+    "runtime-main.js.map": "/ashishpanwar-00.github.io/reactweatherlive/static/js/runtime-main.32703ca0.js.map",
+    "static/js/2.32fa238a.chunk.js": "/ashishpanwar-00.github.io/reactweatherlive/static/js/2.32fa238a.chunk.js",
+    "static/js/2.32fa238a.chunk.js.map": "/ashishpanwar-00.github.io/reactweatherlive/static/js/2.32fa238a.chunk.js.map",
+    "index.html": "/ashishpanwar-00.github.io/reactweatherlive/index.html",
+    "static/css/main.ae481947.chunk.css.map": "/ashishpanwar-00.github.io/reactweatherlive/static/css/main.ae481947.chunk.css.map",
+    "static/js/2.32fa238a.chunk.js.LICENSE.txt": "/ashishpanwar-00.github.io/reactweatherlive/static/js/2.32fa238a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32703ca0.js",
+    "static/js/2.32fa238a.chunk.js",
+    "static/css/main.ae481947.chunk.css",
+    "static/js/main.2ef9f81e.chunk.js"
+  ]
+}
